@@ -1,4 +1,4 @@
-# "Simple Weather Application using HTML, Bootstrap CSS framework &amp; JavaScript"
+# "Simple Weather Application using HTML,CSS & JavaScript"
 
 ## Overview of Weather App
 A weather app created using HTML, CSS, and JavaScript is a user-friendly web application that provides real-time weather information to users. Below is a description of such an app:
